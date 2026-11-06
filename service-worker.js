@@ -1,4 +1,4 @@
-const CACHE_NAME = 'broker-kp-v1';
+const CACHE_NAME = 'broker-kp-v2';
 const FILES_TO_CACHE = [
   './index.html',
   './manifest.json',
