@@ -1,6 +1,6 @@
 const CACHE_NAME = 'broker-kp-v1';
 const FILES_TO_CACHE = [
-  './broker_app.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
